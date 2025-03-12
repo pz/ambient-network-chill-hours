@@ -2,7 +2,7 @@
 
 A command line tool to fetch data from Ambient Weather stations and calculate chill hours for agricultural purposes.
 
-[![npm version](https://badge.fury.io/js/%40yourusername%2Fambient-chill-hours.svg)](https://badge.fury.io/js/%40yourusername%2Fambient-chill-hours)
+[![npm version](https://badge.fury.io/js/%40peezee%2Fambient-chill-hours.svg)](https://badge.fury.io/js/%40peezee%2Fambient-chill-hours)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Installation
@@ -11,17 +11,17 @@ A command line tool to fetch data from Ambient Weather stations and calculate ch
 
 ```bash
 # Install globally
-npm install -g @yourusername/ambient-chill-hours
+npm install -g @peezee/ambient-chill-hours
 
 # Or locally in a project
-npm install @yourusername/ambient-chill-hours
+npm install @peezee/ambient-chill-hours
 ```
 
 ### From source
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ambient-chill-hours.git
+git clone https://github.com/peezee/ambient-chill-hours.git
 cd ambient-chill-hours
 
 # Install dependencies

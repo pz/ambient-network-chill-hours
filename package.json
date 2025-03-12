@@ -1,5 +1,5 @@
 {
-  "name": "@yourusername/ambient-chill-hours",
+  "name": "@peezee/ambient-chill-hours",
   "version": "1.0.0",
   "description": "A command line tool to calculate chill hours from Ambient Weather station data",
   "main": "dist/index.js",
