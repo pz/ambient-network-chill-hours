@@ -2,7 +2,22 @@
 
 A command line tool to fetch data from Ambient Weather stations and calculate chill hours for agricultural purposes.
 
+[![npm version](https://badge.fury.io/js/%40yourusername%2Fambient-chill-hours.svg)](https://badge.fury.io/js/%40yourusername%2Fambient-chill-hours)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Installation
+
+### From npm
+
+```bash
+# Install globally
+npm install -g @yourusername/ambient-chill-hours
+
+# Or locally in a project
+npm install @yourusername/ambient-chill-hours
+```
+
+### From source
 
 ```bash
 # Clone the repository

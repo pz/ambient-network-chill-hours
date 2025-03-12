@@ -1,0 +1,19 @@
+# Source code (we publish compiled code)
+src/
+
+# Development files
+tsconfig.json
+.env
+.env.example
+
+# Git files
+.git/
+.gitignore
+
+# Tests
+test/
+__tests__/
+
+# Editor files
+.vscode/
+.idea/
